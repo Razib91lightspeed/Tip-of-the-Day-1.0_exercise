@@ -1,0 +1,2 @@
+Enable two-factor authentication (2FA) on your online accounts whenever 
+possible to add an extra layer of security to your login process.

@@ -1,0 +1,2 @@
+1. Always backup your important data and files regularly to prevent data 
+loss in case of hardware failure, malware, or other disasters.
