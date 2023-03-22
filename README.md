@@ -1,3 +1,7 @@
+Question
+
+![Alt text](picture/Capture1.JPG)
+
 Tip of the Day (linuxtips) Bash Script
 
 The Tip of the Day (linuxtips) Bash script is a simple script that displays a 
